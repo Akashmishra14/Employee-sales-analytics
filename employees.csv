@@ -1,0 +1,251 @@
+employee_id,first_name,last_name,gender,age,email,dept_id,job_title,hire_date,exit_date,status,salary,performance_rating,city
+E0001,Mark,Johnson,Male,51,mark.johnson1@company.com,D01,Analyst,2018-08-17,,Active,64005,4.25,Johnberg
+E0002,Nancy,Rhodes,Female,25,nancy.rhodes2@company.com,D06,Executive,2019-05-30,,Active,59534,3.25,New Roberttown
+E0003,Brandon,Hall,Male,26,brandon.hall3@company.com,D06,Executive,2021-08-04,,Active,68552,4.12,New Jamesside
+E0004,Jason,Cole,Male,46,jason.cole4@company.com,D01,Lead,2023-06-20,,Active,60610,2.81,Lisatown
+E0005,Peter,Moore,Male,28,peter.moore5@company.com,D01,Associate,2018-08-24,2021-08-20,Exited,65541,3.46,Petersonberg
+E0006,Cindy,Gallagher,Female,47,cindy.gallagher6@company.com,D03,Analyst,2023-04-21,,Active,104670,3.38,North Noahstad
+E0007,Ryan,Munoz,Male,42,ryan.munoz7@company.com,D06,Analyst,2023-06-12,,Active,64387,3.79,Lake Stephenville
+E0008,William,Gray,Male,37,william.gray8@company.com,D04,Executive,2019-01-30,,Active,77699,3.17,Mariastad
+E0009,Kenneth,Bush,Male,39,kenneth.bush9@company.com,D07,Associate,2020-04-12,,Active,52391,4.4,Lake Jeremyport
+E0010,William,Wyatt,Male,57,william.wyatt10@company.com,D01,Lead,2018-11-28,,Active,45106,4.02,South Joshuastad
+E0011,Carla,Kelly,Female,51,carla.kelly11@company.com,D04,Executive,2021-01-21,,Active,37945,3.93,Jacquelineland
+E0012,Lisa,Jackson,Female,31,lisa.jackson12@company.com,D05,Associate,2023-10-28,,Active,76400,3.67,East Steven
+E0013,Debra,Schaefer,Female,29,debra.schaefer13@company.com,D03,Analyst,2022-10-10,2025-12-31,Exited,90810,3.73,Lake Mark
+E0014,Randy,Brown,Male,47,randy.brown14@company.com,D03,Lead,2023-06-17,,Active,86163,3.12,Port Leslieview
+E0015,Andrea,Gentry,Female,46,andrea.gentry15@company.com,D02,Manager,2021-07-15,2024-08-03,Exited,77939,2.81,Jasonfort
+E0016,Jennifer,Rocha,Female,43,jennifer.rocha16@company.com,D02,Executive,2021-04-18,,Active,55981,3.63,Thomasberg
+E0017,David,Hoffman,Male,35,david.hoffman17@company.com,D01,Manager,2021-11-15,,Active,64520,3.22,Juliechester
+E0018,Steven,Ross,Male,23,steven.ross18@company.com,D07,Analyst,2021-01-20,,Active,42704,2.48,East William
+E0019,Ann,Williams,Female,32,ann.williams19@company.com,D04,Analyst,2019-08-21,2023-12-25,Exited,53709,4.05,East Courtneychester
+E0020,Linda,Cruz,Female,43,linda.cruz20@company.com,D02,Manager,2018-11-19,,Active,67507,3.25,Riceside
+E0021,Shannon,Smith,Female,51,shannon.smith21@company.com,D01,Analyst,2020-12-03,2025-01-30,Exited,50643,3.19,Lake Nicoleview
+E0022,Patricia,Peterson,Female,57,patricia.peterson22@company.com,D03,Associate,2023-01-20,,Active,84367,3.51,Ryanmouth
+E0023,Aaron,Bowen,Male,31,aaron.bowen23@company.com,D06,Senior Manager,2019-01-25,,Active,65984,3.42,Teresaburgh
+E0024,Jordan,Rodriguez,Male,35,jordan.rodriguez24@company.com,D04,Associate,2020-02-10,,Active,31751,2.34,Meaganhaven
+E0025,Lisa,Hernandez,Female,39,lisa.hernandez25@company.com,D02,Lead,2018-10-29,,Active,64797,2.78,New Stephanie
+E0026,Tammy,Sellers,Female,51,tammy.sellers26@company.com,D06,Associate,2019-11-11,,Active,53724,4.09,Tracyville
+E0027,Timothy,Koch,Male,26,timothy.koch27@company.com,D07,Lead,2021-02-22,,Active,33599,3.23,Johnbury
+E0028,Shawn,Arroyo,Male,42,shawn.arroyo28@company.com,D03,Analyst,2021-03-10,,Active,95213,3.69,Lake Toddland
+E0029,William,Patel,Male,47,william.patel29@company.com,D07,Manager,2019-03-28,,Active,45865,3.08,East Donna
+E0030,Travis,Martin,Male,45,travis.martin30@company.com,D02,Executive,2021-01-08,,Active,79221,3.31,Brandtside
+E0031,Pedro,Vaughn,Male,29,pedro.vaughn31@company.com,D03,Senior Manager,2018-08-04,,Active,92639,4.59,Raymondstad
+E0032,Jessica,Holmes,Female,25,jessica.holmes32@company.com,D04,Senior Manager,2020-04-22,2023-11-07,Exited,37734,2.99,East Jeffreymouth
+E0033,Alisha,Spencer,Female,57,alisha.spencer33@company.com,D02,Executive,2020-02-06,,Active,43479,4.01,North Chad
+E0034,Lynn,Perez,Female,22,lynn.perez34@company.com,D02,Manager,2020-01-24,,Active,47813,3.75,Port Markhaven
+E0035,David,Caldwell,Male,25,david.caldwell35@company.com,D01,Lead,2018-06-15,,Active,89966,3.83,New David
+E0036,Taylor,Duncan,Female,43,taylor.duncan36@company.com,D01,Lead,2019-02-16,,Active,58212,2.85,Sanchezfort
+E0037,Robert,Lee,Male,41,robert.lee37@company.com,D05,Associate,2021-10-24,,Active,73310,4.35,Lake Ryanchester
+E0038,Jason,Shields,Male,47,jason.shields38@company.com,D02,Associate,2018-01-26,2022-08-07,Exited,47572,2.16,Lake Deniseville
+E0039,Antonio,Chandler,Male,57,antonio.chandler39@company.com,D06,Executive,2022-09-14,,Active,61368,4.91,East Jamesside
+E0040,Joan,Henderson,Female,56,joan.henderson40@company.com,D03,Senior Manager,2023-05-18,2025-12-31,Exited,75780,2.73,Stevenland
+E0041,Jessica,Callahan,Female,43,jessica.callahan41@company.com,D03,Lead,2018-12-27,,Active,80143,4.17,North Deniseside
+E0042,Russell,Novak,Male,34,russell.novak42@company.com,D04,Lead,2024-09-27,,Active,56619,3.37,East Richard
+E0043,Karen,Hancock,Female,31,karen.hancock43@company.com,D06,Analyst,2024-05-02,,Active,63352,3.14,East Nicholasfurt
+E0044,Derek,Bowers,Male,38,derek.bowers44@company.com,D02,Analyst,2020-02-03,,Active,62071,4.76,Mitchellside
+E0045,Mary,Tucker,Female,55,mary.tucker45@company.com,D03,Senior Manager,2023-12-01,,Active,93429,4.54,West Jeff
+E0046,Amy,Fitzgerald,Female,51,amy.fitzgerald46@company.com,D01,Analyst,2018-02-26,,Active,68275,3.84,Lake Leeton
+E0047,Kevin,Shaw,Male,50,kevin.shaw47@company.com,D01,Associate,2023-02-26,,Active,40306,2.41,North Susan
+E0048,Angela,Lopez,Female,26,angela.lopez48@company.com,D05,Executive,2018-03-23,,Active,72845,3.19,Lake Michellefurt
+E0049,Barbara,Zamora,Female,44,barbara.zamora49@company.com,D04,Senior Manager,2020-07-27,,Active,68864,2.78,New Brooke
+E0050,Lisa,Barnes,Female,51,lisa.barnes50@company.com,D06,Executive,2024-12-24,,Active,57938,3.37,Sarahborough
+E0051,Mckenzie,Edwards,Female,22,mckenzie.edwards51@company.com,D04,Executive,2024-07-15,,Active,53087,4.02,Randyport
+E0052,Jim,Hickman,Male,26,jim.hickman52@company.com,D01,Lead,2024-10-12,,Active,44881,2.52,North Stephenshire
+E0053,Whitney,Jones,Female,29,whitney.jones53@company.com,D04,Lead,2020-12-01,,Active,62990,2.44,New Joseph
+E0054,Taylor,Ibarra,Female,58,taylor.ibarra54@company.com,D07,Associate,2023-10-12,2024-11-10,Exited,50862,3.11,West Justin
+E0055,Jessica,Daniels,Female,41,jessica.daniels55@company.com,D06,Manager,2020-02-08,,Active,64457,4.57,Cherylhaven
+E0056,Adam,Montoya,Male,27,adam.montoya56@company.com,D04,Executive,2020-01-02,,Active,49313,3.69,Sarahville
+E0057,Teresa,Taylor,Female,27,teresa.taylor57@company.com,D02,Analyst,2022-06-08,2025-12-31,Exited,62738,5.0,North Juliaberg
+E0058,Dominic,Jacobs,Male,44,dominic.jacobs58@company.com,D02,Analyst,2019-03-01,,Active,56551,2.33,Jamesview
+E0059,Jonathan,King,Male,31,jonathan.king59@company.com,D05,Lead,2022-06-09,2025-12-31,Exited,89470,2.92,North Cynthiaview
+E0060,Andrew,Cook,Male,57,andrew.cook60@company.com,D04,Lead,2023-07-29,,Active,50048,2.65,Lake Tina
+E0061,Candice,Ramos,Female,26,candice.ramos61@company.com,D06,Associate,2024-01-27,,Active,51646,2.8,Hoffmanville
+E0062,Benjamin,Ware,Male,32,benjamin.ware62@company.com,D02,Senior Manager,2022-07-24,,Active,42395,5.0,New Barry
+E0063,Jaclyn,Tran,Female,55,jaclyn.tran63@company.com,D06,Associate,2019-08-28,,Active,80042,5.0,Andersonport
+E0064,Holly,Fitzpatrick,Female,34,holly.fitzpatrick64@company.com,D01,Associate,2018-06-20,,Active,59098,4.88,West Jasonbury
+E0065,Mary,Gomez,Female,56,mary.gomez65@company.com,D05,Associate,2020-03-03,2024-10-13,Exited,80217,3.2,Dicksonberg
+E0066,Timothy,Young,Male,29,timothy.young66@company.com,D01,Lead,2022-01-15,2023-03-23,Exited,52141,3.29,Port Lisa
+E0067,Stanley,Johnson,Male,44,stanley.johnson67@company.com,D02,Lead,2019-03-23,2021-08-25,Exited,72152,3.62,Kimberlychester
+E0068,Rebekah,Shields,Female,34,rebekah.shields68@company.com,D04,Lead,2023-10-18,,Active,52001,2.92,West Erik
+E0069,Meredith,Reyes,Female,23,meredith.reyes69@company.com,D04,Analyst,2021-10-02,,Active,85769,5.0,Port Thomasborough
+E0070,Ruth,Stevens,Female,43,ruth.stevens70@company.com,D02,Senior Manager,2022-06-30,,Active,50843,2.61,Loribury
+E0071,Daniel,Keller,Male,53,daniel.keller71@company.com,D05,Senior Manager,2018-08-27,2022-11-25,Exited,80761,2.1,Murphyland
+E0072,Walter,Ramirez,Male,44,walter.ramirez72@company.com,D01,Lead,2023-11-26,,Active,41674,3.12,Frazierside
+E0073,Erin,Johnson,Female,53,erin.johnson73@company.com,D07,Associate,2023-06-15,,Active,41493,3.42,Gregoryview
+E0074,Andrew,Carlson,Male,51,andrew.carlson74@company.com,D01,Associate,2021-10-01,,Active,72657,1.45,Jessicamouth
+E0075,Jeffrey,Joyce,Male,38,jeffrey.joyce75@company.com,D02,Lead,2020-09-10,,Active,63551,3.2,South Rachelborough
+E0076,Dawn,Fletcher,Female,41,dawn.fletcher76@company.com,D06,Lead,2021-05-05,,Active,78728,2.27,New Saraside
+E0077,Michael,Bentley,Male,30,michael.bentley77@company.com,D04,Executive,2020-07-25,,Active,51264,2.66,West Ryan
+E0078,Tiffany,Mccall,Female,51,tiffany.mccall78@company.com,D01,Executive,2020-01-29,,Active,61991,4.89,Elizabethville
+E0079,Nathan,Evans,Male,29,nathan.evans79@company.com,D01,Associate,2020-04-18,,Active,75927,3.85,Elizabethmouth
+E0080,Jennifer,Phillips,Female,28,jennifer.phillips80@company.com,D04,Senior Manager,2023-08-18,,Active,52798,2.94,East Robert
+E0081,Todd,Byrd,Male,58,todd.byrd81@company.com,D05,Analyst,2023-02-21,,Active,84388,3.35,New Ashley
+E0082,Jennifer,Bass,Female,49,jennifer.bass82@company.com,D02,Manager,2022-04-19,2025-08-03,Exited,68769,2.24,Justinchester
+E0083,Richard,Lawson,Male,27,richard.lawson83@company.com,D07,Analyst,2023-01-23,,Active,38780,4.71,Stevenmouth
+E0084,Michael,Dixon,Male,51,michael.dixon84@company.com,D03,Associate,2021-02-11,,Active,77835,3.53,Lake Christopher
+E0085,Jose,Schultz,Male,22,jose.schultz85@company.com,D07,Analyst,2023-01-19,2025-12-31,Exited,48744,4.42,Clarencebury
+E0086,Megan,Walker,Female,56,megan.walker86@company.com,D07,Analyst,2022-01-02,,Active,48652,3.56,East Andrew
+E0087,David,Alvarez,Male,54,david.alvarez87@company.com,D01,Executive,2023-08-05,,Active,30241,3.03,South Robertshire
+E0088,Cheyenne,Horton,Female,25,cheyenne.horton88@company.com,D01,Associate,2018-11-02,2022-07-30,Exited,59420,4.18,Rossberg
+E0089,Matthew,Smith,Male,51,matthew.smith89@company.com,D03,Manager,2024-06-12,,Active,102821,3.69,Port Ronaldburgh
+E0090,Regina,Dominguez,Female,50,regina.dominguez90@company.com,D03,Executive,2023-09-19,,Active,79639,3.38,Williamsbury
+E0091,Thomas,Martinez,Male,50,thomas.martinez91@company.com,D04,Lead,2020-03-10,2021-05-23,Exited,63997,2.65,Port Steven
+E0092,Kim,Hansen,Female,35,kim.hansen92@company.com,D06,Senior Manager,2020-09-06,,Active,49076,2.84,Stephaniemouth
+E0093,Lisa,Ball,Female,22,lisa.ball93@company.com,D05,Senior Manager,2023-06-17,,Active,75137,4.56,Rivasside
+E0094,Jill,Moore,Female,55,jill.moore94@company.com,D03,Analyst,2023-01-08,,Active,96649,5.0,Colebury
+E0095,Ryan,Ramirez,Male,44,ryan.ramirez95@company.com,D04,Executive,2022-06-16,2025-02-06,Exited,46507,3.59,Simsview
+E0096,Jeremiah,Reeves,Male,39,jeremiah.reeves96@company.com,D06,Manager,2018-09-02,,Active,42980,2.22,West Matthew
+E0097,Steven,Miller,Male,38,steven.miller97@company.com,D01,Associate,2020-03-16,,Active,61290,3.72,East Patrick
+E0098,Christian,Lewis,Male,26,christian.lewis98@company.com,D06,Associate,2021-10-24,,Active,58652,3.12,Russellside
+E0099,John,Brown,Male,47,john.brown99@company.com,D03,Analyst,2023-06-11,2025-12-31,Exited,91658,4.11,Priceshire
+E0100,Tracy,Smith,Male,31,tracy.smith100@company.com,D06,Lead,2024-04-10,2025-11-15,Exited,55844,3.66,Woodsstad
+E0101,Edwin,Price,Male,29,edwin.price101@company.com,D04,Executive,2023-08-28,,Active,58254,3.29,Medinaside
+E0102,Robert,Hurst,Male,58,robert.hurst102@company.com,D02,Analyst,2018-01-14,2018-07-21,Exited,36083,2.46,Robinsonchester
+E0103,Karla,Price,Female,58,karla.price103@company.com,D01,Analyst,2019-09-02,,Active,46860,4.1,Ramseymouth
+E0104,Thomas,Hooper,Male,38,thomas.hooper104@company.com,D04,Manager,2024-06-28,,Active,65070,4.56,South Brittanytown
+E0105,Angela,Patterson,Female,25,angela.patterson105@company.com,D07,Executive,2018-04-13,,Active,61243,3.57,Whiteview
+E0106,James,Lewis,Male,49,james.lewis106@company.com,D05,Lead,2023-12-15,2025-12-31,Exited,64342,3.21,Matthewfurt
+E0107,Diana,Bean,Female,48,diana.bean107@company.com,D01,Executive,2018-09-13,,Active,38413,3.81,Kingland
+E0108,Julie,Curry,Female,37,julie.curry108@company.com,D07,Senior Manager,2018-06-29,2021-10-04,Exited,43426,2.04,West Jeffreyland
+E0109,Richard,Pearson,Male,28,richard.pearson109@company.com,D01,Analyst,2019-03-19,2023-03-05,Exited,42162,2.98,East Jamestown
+E0110,Marc,Allen,Male,51,marc.allen110@company.com,D07,Lead,2021-10-19,,Active,48943,3.79,Caldwellshire
+E0111,Theresa,Marshall,Female,57,theresa.marshall111@company.com,D03,Manager,2019-09-27,,Active,72277,4.35,Katieburgh
+E0112,Lisa,Stuart,Female,46,lisa.stuart112@company.com,D02,Senior Manager,2019-10-20,,Active,64600,3.4,Port Loriport
+E0113,Ashley,Johnson,Female,37,ashley.johnson113@company.com,D03,Lead,2022-11-01,,Active,114923,3.56,Barbarafurt
+E0114,James,Espinoza,Male,32,james.espinoza114@company.com,D05,Lead,2024-08-18,,Active,64852,3.77,New Hannahbury
+E0115,Brian,Barton,Male,46,brian.barton115@company.com,D02,Analyst,2020-10-21,,Active,49999,2.23,Port Tonyaton
+E0116,Hannah,Patterson,Female,44,hannah.patterson116@company.com,D07,Lead,2024-08-22,,Active,39495,3.27,Caseymouth
+E0117,Alexandria,Fisher,Female,40,alexandria.fisher117@company.com,D06,Analyst,2021-05-04,,Active,46454,3.78,Garciastad
+E0118,Mark,Poole,Male,48,mark.poole118@company.com,D04,Executive,2022-02-15,,Active,54223,4.0,South Gregory
+E0119,Joseph,Santos,Male,51,joseph.santos119@company.com,D05,Associate,2019-09-22,,Active,61296,3.51,Marshallshire
+E0120,Debra,Christian,Female,35,debra.christian120@company.com,D04,Executive,2021-09-06,,Active,69198,3.57,West Nicolebury
+E0121,Nicole,Hudson,Female,57,nicole.hudson121@company.com,D01,Executive,2018-11-24,,Active,52955,2.88,Rogersfort
+E0122,Sarah,White,Female,33,sarah.white122@company.com,D06,Senior Manager,2019-09-21,,Active,65987,4.37,West Lauren
+E0123,Gerald,Beard,Male,24,gerald.beard123@company.com,D07,Analyst,2023-10-01,,Active,50447,3.25,Angelahaven
+E0124,Tiffany,Miller,Female,33,tiffany.miller124@company.com,D03,Associate,2023-02-11,,Active,85972,1.91,Freemanbury
+E0125,Michael,Brewer,Male,54,michael.brewer125@company.com,D03,Analyst,2022-12-10,,Active,100742,2.92,Westtown
+E0126,Brandon,Walker,Male,26,brandon.walker126@company.com,D01,Analyst,2022-09-04,,Active,48478,5.0,West Elizabeth
+E0127,Jacob,Tran,Male,51,jacob.tran127@company.com,D03,Executive,2021-02-22,,Active,95580,2.25,Ronaldside
+E0128,Erin,Warner,Female,36,erin.warner128@company.com,D02,Senior Manager,2023-04-09,,Active,58966,4.13,Kristopherbury
+E0129,Barbara,Lee,Female,56,barbara.lee129@company.com,D05,Executive,2023-04-17,2025-12-31,Exited,66739,4.22,Lake Amandaburgh
+E0130,Cheryl,Rodgers,Female,46,cheryl.rodgers130@company.com,D05,Analyst,2024-12-02,,Active,64347,4.57,Jennyhaven
+E0131,Kyle,Hooper,Male,53,kyle.hooper131@company.com,D05,Senior Manager,2018-12-28,,Active,69689,4.66,West Jeremy
+E0132,Christopher,Smith,Male,33,christopher.smith132@company.com,D03,Senior Manager,2023-04-14,,Active,108776,3.21,West Brandon
+E0133,Amy,Carter,Female,29,amy.carter133@company.com,D06,Senior Manager,2019-04-08,,Active,63428,2.25,Lake Miranda
+E0134,Katherine,Salas,Female,22,katherine.salas134@company.com,D02,Senior Manager,2020-01-17,,Active,73773,1.58,Taylormouth
+E0135,Gina,Sheppard,Female,43,gina.sheppard135@company.com,D01,Executive,2018-08-03,,Active,45085,3.7,Shelleyfort
+E0136,Brian,Jones,Male,49,brian.jones136@company.com,D07,Manager,2022-07-17,,Active,43089,3.66,Joneston
+E0137,Christian,Shepherd,Male,34,christian.shepherd137@company.com,D07,Analyst,2020-07-25,,Active,52951,3.81,Christopherbury
+E0138,Bryan,Duran,Male,38,bryan.duran138@company.com,D04,Lead,2021-05-17,,Active,76420,3.43,Port Alexandra
+E0139,Joanna,Ramos,Female,44,joanna.ramos139@company.com,D05,Analyst,2024-05-12,,Active,62612,2.5,Torreston
+E0140,Leonard,Singh,Male,59,leonard.singh140@company.com,D07,Associate,2021-06-28,,Active,34334,3.44,Lake Jason
+E0141,Mary,Moore,Female,34,mary.moore141@company.com,D03,Associate,2024-06-01,,Active,80813,4.22,New Charles
+E0142,Aaron,Hayes,Male,57,aaron.hayes142@company.com,D06,Analyst,2019-05-05,2022-07-28,Exited,64581,3.65,Carterbury
+E0143,Dwayne,Campbell,Male,41,dwayne.campbell143@company.com,D06,Executive,2018-12-30,2022-03-08,Exited,61144,2.78,Jonesbury
+E0144,Thomas,French,Male,59,thomas.french144@company.com,D05,Associate,2022-06-08,,Active,91034,4.5,South Danny
+E0145,Danny,Hernandez,Male,45,danny.hernandez145@company.com,D02,Lead,2023-04-30,,Active,31080,2.57,Margaretland
+E0146,Anthony,Sparks,Male,52,anthony.sparks146@company.com,D03,Senior Manager,2023-06-22,,Active,98572,5.0,Scottmouth
+E0147,Michael,Lyons,Male,26,michael.lyons147@company.com,D04,Associate,2021-01-29,,Active,54825,4.79,Vincentfort
+E0148,Jeffrey,George,Male,33,jeffrey.george148@company.com,D06,Associate,2024-11-20,,Active,79855,2.18,Navarroview
+E0149,Alexander,Perez,Male,54,alexander.perez149@company.com,D04,Associate,2018-04-15,,Active,45752,4.15,Port Emilyview
+E0150,Kenneth,Hines,Male,46,kenneth.hines150@company.com,D01,Senior Manager,2021-04-03,,Active,61184,3.04,South April
+E0151,Jessica,Ramirez,Female,38,jessica.ramirez151@company.com,D01,Manager,2018-08-05,,Active,47360,3.93,Waltersfort
+E0152,Wayne,Harrison,Male,36,wayne.harrison152@company.com,D01,Lead,2023-10-03,2024-06-29,Exited,61456,2.67,Cookville
+E0153,Shannon,Rivera,Female,47,shannon.rivera153@company.com,D01,Executive,2024-07-08,,Active,60355,2.85,Robertsfurt
+E0154,Robin,Pierce,Female,50,robin.pierce154@company.com,D03,Senior Manager,2023-03-06,,Active,92899,3.01,Millerview
+E0155,Frank,Cordova,Male,45,frank.cordova155@company.com,D07,Lead,2018-09-18,,Active,45385,3.72,Hancocktown
+E0156,Mary,Daniels,Female,45,mary.daniels156@company.com,D03,Senior Manager,2019-11-03,2023-05-20,Exited,83598,3.17,Brownhaven
+E0157,Heidi,Avila,Female,51,heidi.avila157@company.com,D02,Analyst,2022-09-12,,Active,31046,4.79,Wolfborough
+E0158,Derek,Anderson,Male,26,derek.anderson158@company.com,D03,Senior Manager,2023-12-21,,Active,66757,3.25,Samuelfort
+E0159,Bryan,Dudley,Male,47,bryan.dudley159@company.com,D05,Analyst,2019-12-04,,Active,61639,3.96,Lake Eric
+E0160,Juan,Tran,Male,46,juan.tran160@company.com,D03,Associate,2020-05-23,,Active,98390,5.0,East Victoriaville
+E0161,Julia,Wilson,Female,29,julia.wilson161@company.com,D06,Executive,2020-01-28,,Active,56295,3.99,South Sarah
+E0162,Dorothy,Thornton,Female,40,dorothy.thornton162@company.com,D01,Analyst,2024-12-23,,Active,34231,3.63,Davenportfort
+E0163,David,Arnold,Male,25,david.arnold163@company.com,D06,Manager,2024-05-27,,Active,55909,4.83,Leehaven
+E0164,Nicole,Taylor,Female,58,nicole.taylor164@company.com,D02,Executive,2018-06-21,,Active,63832,2.8,West Kendrachester
+E0165,Gina,French,Female,58,gina.french165@company.com,D05,Associate,2022-06-10,,Active,71114,2.15,Loriport
+E0166,Molly,Monroe,Female,36,molly.monroe166@company.com,D05,Associate,2023-04-06,,Active,70891,3.43,Grimesmouth
+E0167,Joshua,Reed,Male,59,joshua.reed167@company.com,D04,Lead,2019-08-24,,Active,57784,3.08,Gibsonmouth
+E0168,Sheila,Pollard,Female,54,sheila.pollard168@company.com,D04,Lead,2023-03-12,,Active,55268,2.93,New Patrick
+E0169,Scott,Jenkins,Male,24,scott.jenkins169@company.com,D06,Executive,2019-09-09,,Active,62192,5.0,Juliefurt
+E0170,Jasmin,Alvarado,Female,54,jasmin.alvarado170@company.com,D07,Analyst,2021-12-05,,Active,42996,4.15,South Tammie
+E0171,Cameron,Sanford,Male,39,cameron.sanford171@company.com,D04,Lead,2021-05-01,,Active,45744,3.15,Mollymouth
+E0172,Brett,Lozano,Male,34,brett.lozano172@company.com,D01,Manager,2019-04-19,,Active,72980,3.13,Lake Douglasberg
+E0173,Angela,Harrington,Female,57,angela.harrington173@company.com,D02,Associate,2024-09-06,,Active,57050,4.26,Matthewfurt
+E0174,Matthew,Christian,Male,23,matthew.christian174@company.com,D04,Lead,2024-09-18,2025-12-31,Exited,30000,2.73,Finleyfort
+E0175,Shelia,Johnson,Female,39,shelia.johnson175@company.com,D07,Executive,2024-11-20,,Active,58355,3.3,East Crystalport
+E0176,Yolanda,Francis,Female,26,yolanda.francis176@company.com,D07,Associate,2023-12-17,,Active,57590,2.72,Goodville
+E0177,Jill,Benson,Female,29,jill.benson177@company.com,D06,Manager,2021-02-21,,Active,55341,4.02,North Markton
+E0178,Edward,Brooks,Male,26,edward.brooks178@company.com,D04,Analyst,2019-01-23,2019-07-24,Exited,39579,3.49,East Amanda
+E0179,Kylie,Sparks,Female,42,kylie.sparks179@company.com,D01,Manager,2021-07-22,,Active,36238,4.05,East Christian
+E0180,Seth,Harvey,Male,44,seth.harvey180@company.com,D07,Analyst,2023-06-18,,Active,43845,4.4,South Roberta
+E0181,Briana,Murray,Female,50,briana.murray181@company.com,D05,Executive,2019-09-12,,Active,63925,4.67,Stevetown
+E0182,Stephanie,Marshall,Female,54,stephanie.marshall182@company.com,D03,Executive,2020-04-25,,Active,76318,2.6,Ericaburgh
+E0183,Angela,Landry,Female,23,angela.landry183@company.com,D05,Associate,2022-12-24,2025-12-31,Exited,72747,3.72,Daniellechester
+E0184,Melissa,Bryant,Female,22,melissa.bryant184@company.com,D05,Associate,2018-08-18,,Active,84684,2.2,Jamesfurt
+E0185,Samuel,Rodriguez,Male,45,samuel.rodriguez185@company.com,D04,Analyst,2022-12-10,,Active,66252,2.68,Armstrongshire
+E0186,Edward,Lyons,Male,39,edward.lyons186@company.com,D07,Lead,2022-10-23,2025-12-31,Exited,56170,4.94,Port Dominiqueview
+E0187,Adam,Grimes,Male,31,adam.grimes187@company.com,D01,Associate,2019-02-20,,Active,44282,3.51,New Julieport
+E0188,Reginald,Hall,Male,25,reginald.hall188@company.com,D03,Manager,2024-06-05,,Active,114585,4.93,Jefferyborough
+E0189,Marc,Byrd,Male,26,marc.byrd189@company.com,D05,Senior Manager,2020-07-12,,Active,85260,4.01,Lake Colton
+E0190,Mark,Williams,Male,53,mark.williams190@company.com,D04,Analyst,2022-03-15,,Active,59624,4.09,Johnsonstad
+E0191,Morgan,Davis,Female,35,morgan.davis191@company.com,D06,Manager,2018-07-19,2022-05-09,Exited,59003,3.06,Markchester
+E0192,Christopher,Anderson,Male,49,christopher.anderson192@company.com,D04,Manager,2022-08-12,,Active,72747,4.59,Alyssaview
+E0193,Ronald,Scott,Male,55,ronald.scott193@company.com,D01,Lead,2018-11-14,,Active,55144,3.66,Coffeyport
+E0194,Paul,Morgan,Male,32,paul.morgan194@company.com,D07,Lead,2022-09-09,2025-12-31,Exited,45724,2.46,South Sydneyberg
+E0195,Paul,Perez,Male,59,paul.perez195@company.com,D02,Manager,2018-01-11,2021-01-05,Exited,70730,3.51,Coffeyside
+E0196,Holly,Gibbs,Female,56,holly.gibbs196@company.com,D04,Associate,2022-01-03,,Active,49565,2.63,West Amandamouth
+E0197,Jacob,Curry,Male,35,jacob.curry197@company.com,D05,Executive,2019-04-11,2020-12-30,Exited,59996,3.91,Brendastad
+E0198,Brian,Hall,Male,27,brian.hall198@company.com,D04,Executive,2022-08-23,,Active,50527,4.3,New Nicoleside
+E0199,Erin,Bishop,Female,29,erin.bishop199@company.com,D03,Analyst,2019-08-14,,Active,90466,2.82,Lake Madisonport
+E0200,Matthew,Wilson,Male,50,matthew.wilson200@company.com,D05,Lead,2021-11-15,,Active,79551,4.53,North Kevinfort
+E0201,Audrey,Young,Female,57,audrey.young201@company.com,D06,Senior Manager,2021-12-19,,Active,43069,3.24,South Shawn
+E0202,Michael,Paul,Male,52,michael.paul202@company.com,D04,Manager,2021-08-07,2022-04-01,Exited,55034,3.1,Matthewsberg
+E0203,Stephen,Pena,Male,25,stephen.pena203@company.com,D07,Lead,2024-07-28,,Active,40176,3.7,Gilbertview
+E0204,Andrew,Wood,Male,27,andrew.wood204@company.com,D06,Senior Manager,2021-04-12,,Active,52225,4.65,Wallacebury
+E0205,Scott,Garcia,Male,54,scott.garcia205@company.com,D02,Senior Manager,2024-06-08,,Active,46055,1.81,Amystad
+E0206,Antonio,Hill,Male,49,antonio.hill206@company.com,D07,Executive,2024-02-27,,Active,45371,3.41,Port Madisonland
+E0207,Mary,May,Female,50,mary.may207@company.com,D03,Manager,2018-08-15,,Active,94751,4.75,North Kristinbury
+E0208,Virginia,Buchanan,Female,25,virginia.buchanan208@company.com,D05,Executive,2021-02-09,,Active,65965,2.78,North Maria
+E0209,Julian,Willis,Male,25,julian.willis209@company.com,D05,Analyst,2021-07-08,,Active,97048,3.23,West Kim
+E0210,Richard,Carlson,Male,59,richard.carlson210@company.com,D06,Senior Manager,2019-06-22,,Active,79044,3.43,Micheleberg
+E0211,Victoria,Fernandez,Female,36,victoria.fernandez211@company.com,D04,Manager,2022-05-26,,Active,90146,4.18,North Donna
+E0212,Alexander,Smith,Male,37,alexander.smith212@company.com,D06,Manager,2020-09-09,,Active,53658,3.11,New Mario
+E0213,Carrie,Williams,Female,29,carrie.williams213@company.com,D06,Lead,2018-06-22,,Active,61342,3.51,Foxland
+E0214,Karen,Strickland,Female,28,karen.strickland214@company.com,D05,Lead,2020-04-28,,Active,51756,4.03,South Williamton
+E0215,Monica,Kerr,Female,35,monica.kerr215@company.com,D06,Analyst,2023-02-02,2024-09-04,Exited,57299,3.57,Stephentown
+E0216,Antonio,Mendoza,Male,24,antonio.mendoza216@company.com,D02,Manager,2019-12-12,,Active,43893,3.17,Simmonsville
+E0217,John,Browning,Male,25,john.browning217@company.com,D06,Associate,2021-04-11,,Active,61346,2.69,North Marcberg
+E0218,Ana,Hill,Female,30,ana.hill218@company.com,D05,Analyst,2024-09-17,,Active,52296,1.93,Oscarhaven
+E0219,Edward,Wagner,Male,51,edward.wagner219@company.com,D02,Associate,2019-10-07,,Active,58758,3.48,Garciaville
+E0220,Sarah,Curtis,Female,44,sarah.curtis220@company.com,D04,Manager,2024-04-22,,Active,38666,2.56,South Shannon
+E0221,Crystal,Morgan,Female,33,crystal.morgan221@company.com,D02,Senior Manager,2018-07-03,2023-03-27,Exited,54823,1.5,Rossville
+E0222,Erik,Edwards,Male,54,erik.edwards222@company.com,D01,Senior Manager,2023-09-18,,Active,48307,3.17,Nicholasberg
+E0223,Michael,Wells,Male,41,michael.wells223@company.com,D07,Manager,2018-07-29,2020-03-16,Exited,57592,2.96,Port Christopherchester
+E0224,Brent,Rodgers,Male,26,brent.rodgers224@company.com,D04,Lead,2023-02-22,,Active,33572,3.81,New Brian
+E0225,Tina,Hoffman,Female,37,tina.hoffman225@company.com,D05,Analyst,2023-04-26,,Active,94059,3.0,South Michaelchester
+E0226,Sean,Griffith,Male,28,sean.griffith226@company.com,D07,Manager,2018-11-05,,Active,30000,3.56,Carolinestad
+E0227,Ashley,Romero,Female,37,ashley.romero227@company.com,D04,Analyst,2023-12-03,2025-12-31,Exited,58666,3.0,Lake Timothy
+E0228,Sarah,Bell,Female,48,sarah.bell228@company.com,D05,Associate,2024-02-24,,Active,92235,3.92,Dannyview
+E0229,Laura,Aguirre,Female,31,laura.aguirre229@company.com,D07,Lead,2023-01-14,,Active,41185,2.81,New Sarahview
+E0230,Allen,Nelson,Male,55,allen.nelson230@company.com,D07,Lead,2018-07-09,,Active,43006,5.0,Sandrastad
+E0231,Abigail,Kane,Female,42,abigail.kane231@company.com,D06,Associate,2021-02-27,,Active,55212,3.56,Jonestown
+E0232,Anna,Moreno,Female,26,anna.moreno232@company.com,D03,Lead,2020-07-08,,Active,103983,4.82,Barnesmouth
+E0233,Brooke,Collins,Female,28,brooke.collins233@company.com,D06,Manager,2019-01-10,,Active,44189,3.43,Kimberlyshire
+E0234,Linda,Ware,Female,56,linda.ware234@company.com,D05,Lead,2024-02-12,2024-09-28,Exited,77539,4.21,East Karen
+E0235,Amber,Miller,Female,47,amber.miller235@company.com,D01,Associate,2022-04-03,,Active,58472,3.22,Stanleyfort
+E0236,Lawrence,Perry,Male,36,lawrence.perry236@company.com,D02,Executive,2019-04-24,,Active,64594,1.0,Port William
+E0237,Haley,Rodriguez,Female,56,haley.rodriguez237@company.com,D02,Lead,2021-04-12,2025-07-03,Exited,46050,2.93,Roseport
+E0238,Amber,Foster,Female,35,amber.foster238@company.com,D03,Lead,2024-07-08,,Active,116915,3.5,North Jamesborough
+E0239,Randall,Duran,Male,52,randall.duran239@company.com,D06,Associate,2022-06-17,,Active,59572,2.7,Marktown
+E0240,Kathleen,Jordan,Female,55,kathleen.jordan240@company.com,D04,Senior Manager,2020-01-04,2023-05-19,Exited,35623,3.3,South Amanda
+E0241,David,Hansen,Male,51,david.hansen241@company.com,D07,Manager,2018-06-08,,Active,45415,3.27,Charleston
+E0242,Jessica,Stevens,Female,37,jessica.stevens242@company.com,D07,Executive,2022-06-04,,Active,52401,2.7,Port Lawrencechester
+E0243,Laura,Mckinney,Female,24,laura.mckinney243@company.com,D07,Associate,2023-01-30,,Active,40051,2.37,Robertsfurt
+E0244,Alisha,Nguyen,Female,25,alisha.nguyen244@company.com,D05,Senior Manager,2021-04-22,,Active,56631,3.68,Collierstad
+E0245,Anita,Richard,Female,33,anita.richard245@company.com,D03,Senior Manager,2022-09-29,,Active,97583,2.38,South Brianna
+E0246,Joseph,Foster,Male,50,joseph.foster246@company.com,D03,Associate,2024-03-30,,Active,97251,3.26,Juliebury
+E0247,Felicia,Jackson,Female,49,felicia.jackson247@company.com,D02,Lead,2022-08-14,,Active,77751,4.94,New Williamstad
+E0248,Gregory,Mullen,Male,44,gregory.mullen248@company.com,D05,Lead,2023-03-02,,Active,79232,4.11,East Curtis
+E0249,David,Thompson,Male,37,david.thompson249@company.com,D04,Manager,2021-07-24,,Active,61885,3.45,Port Katherine
+E0250,Angela,Bean,Female,53,angela.bean250@company.com,D07,Analyst,2020-05-24,,Active,52606,3.5,Marshallshire

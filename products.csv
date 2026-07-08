@@ -1,0 +1,27 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Laptop,Electronics,1067.74,708.85
+P002,Smartphone,Electronics,1061.78,536.14
+P003,Tablet,Electronics,624.51,343.14
+P004,Headphones,Electronics,1211.6,866.48
+P005,Monitor,Electronics,520.68,347.27
+P006,Keyboard,Electronics,368.17,209.41
+P007,Office Chair,Furniture,197.06,112.5
+P008,Desk,Furniture,572.32,416.41
+P009,Bookshelf,Furniture,241.77,153.65
+P010,Sofa,Furniture,590.97,436.27
+P011,Bed Frame,Furniture,527.04,297.13
+P012,T-Shirt,Apparel,132.59,76.92
+P013,Jeans,Apparel,195.7,117.4
+P014,Jacket,Apparel,143.38,72.52
+P015,Sneakers,Apparel,92.01,66.13
+P016,Dress,Apparel,129.84,79.33
+P017,Coffee,Groceries,47.12,33.62
+P018,Cereal,Groceries,19.5,12.4
+P019,Snack Pack,Groceries,27.04,17.79
+P020,Beverages,Groceries,20.04,11.24
+P021,Dairy Bundle,Groceries,46.07,33.68
+P022,Yoga Mat,Sports,339.68,252.91
+P023,Dumbbells,Sports,301.82,208.61
+P024,Bicycle,Sports,308.6,191.38
+P025,Running Shoes,Sports,190.73,106.82
+P026,Football,Sports,263.26,150.67
